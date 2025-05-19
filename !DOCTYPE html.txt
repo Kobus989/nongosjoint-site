@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nongo's Joint</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #eff4ed;
+      color: #222;
+    }
+    header {
+      background-color: #2b533f;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header img {
+      max-width: 120px;
+      margin-bottom: 1rem;
+    }
+    section {
+      padding: 2rem 1rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .cta {
+      background-color: #d4edc9;
+      padding: 1rem;
+      border-left: 4px solid #4caf50;
+      margin-top: 2rem;
+      font-weight: bold;
+    }
+    footer {
+      background-color: #2b533f;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    a {
+      color: #2b533f;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="Nongo's joint Logo.jpeg" alt="Nongo's Joint Logo" />
+    <h1>Nongo's Joint</h1>
+    <p>Hemp. Health. Harmony.</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>
+      Nongo's Joint is a community-focused cannabis social club based in Potchefstroom,
+      South Africa. Part of the Grow One Africa network, we promote responsible, non-commercial
+      cannabis use through private clubs aligned with South Africa's Cannabis for Private Purposes Act.
+    </p>
+    <p>
+      We serve as a hub for cannabis education, cultural exchange, and sustainable practices,
+      aiming to destigmatize cannabis culture and support community development.
+    </p>
+
+    <div class="cta">
+      Connect with The General and the 420 Tribe and let's cannabis and hemp together!
+    </div>
+
+    <h2>Contact</h2>
+    <p><strong>Phone:</strong> <a href="tel:+27723342796">+27 72 334 2796</a></p>
+    <p><strong>Email:</strong> <a href="mailto:info@nongosjoint.africa">info@nongosjoint.africa</a></p>
+    <p><strong>Location:</strong> Gopane, Zeerust, North West, South Africa</p>
+    <p><strong>Facebook:</strong> <a href="https://www.facebook.com/share/g/1BxSe8q8XN/">Visit Page</a></p>
+    <p><strong>Website:</strong> <a href="https://www.growone.africa">growone.africa</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Nongo's Joint | Hemp Health</p>
+  </footer>
+</body>
+</html>
